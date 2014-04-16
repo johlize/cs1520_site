@@ -1,5 +1,5 @@
 body {
-  background-color:	#ffffff
+  background-color:	#ccffff
 }
 
 h1,h2,h3 {
@@ -16,7 +16,7 @@ div#content {
 }
 
 div.divider {
-  background-color: #bbbbbb;
+  background-color: #99ffff;
   width:            75%;
   margin:           auto;
   padding:          0.1em;
